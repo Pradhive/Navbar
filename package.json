@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Pradhive.github.io/Navbar",
+  "homepage": "https://pradhive.github.io/Navbar",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
